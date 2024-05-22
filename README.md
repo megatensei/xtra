@@ -1,4 +1,6 @@
 for _pony.town_ info go [here](https://github.com/megatensei/pt)
+
+contact goes to fish1779 or fish_1779 on most platforms :-)
  # ![img](https://64.media.tumblr.com/b5fb3b2e5206daf67beb51479bc34a93/tumblr_oodtqhJN7P1uxjyz9o5_75sq.png) 
  <sup>I HATE YOU MARKDOWN I HATE THIS STUPID FREAKING README I HOPE EVERYONE DIES AND GOES TO HELL</sup> heheh work in progress im just leaving all my other links and funny things on here
 
