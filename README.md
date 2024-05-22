@@ -7,4 +7,4 @@ for _pony.town_ info go [here](https://github.com/megatensei/pt)
 i am a awesome ***UNCOMMITTED PLEASE SOMEONE YELL AT ME TO DO MY DEPOSITS*** uni student ^p^.... do you think business or earth sciences fits me better...?
 
 #
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) and i play around with ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
+pretty fluent in ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) and i play around with ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
